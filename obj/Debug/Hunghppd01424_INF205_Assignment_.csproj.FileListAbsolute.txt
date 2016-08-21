@@ -1,0 +1,6 @@
+c:\users\mypc\documents\visual studio 2013\Projects\Hunghppd01424_INF205_Assignment_\Hunghppd01424_INF205_Assignment_\bin\Hunghppd01424_INF205_Assignment_.dll.config
+c:\users\mypc\documents\visual studio 2013\Projects\Hunghppd01424_INF205_Assignment_\Hunghppd01424_INF205_Assignment_\bin\Hunghppd01424_INF205_Assignment_.dll
+c:\users\mypc\documents\visual studio 2013\Projects\Hunghppd01424_INF205_Assignment_\Hunghppd01424_INF205_Assignment_\bin\Hunghppd01424_INF205_Assignment_.pdb
+c:\users\mypc\documents\visual studio 2013\Projects\Hunghppd01424_INF205_Assignment_\Hunghppd01424_INF205_Assignment_\obj\Debug\Hunghppd01424_INF205_Assignment_.csprojResolveAssemblyReference.cache
+c:\users\mypc\documents\visual studio 2013\Projects\Hunghppd01424_INF205_Assignment_\Hunghppd01424_INF205_Assignment_\obj\Debug\Hunghppd01424_INF205_Assignment_.dll
+c:\users\mypc\documents\visual studio 2013\Projects\Hunghppd01424_INF205_Assignment_\Hunghppd01424_INF205_Assignment_\obj\Debug\Hunghppd01424_INF205_Assignment_.pdb
